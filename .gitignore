@@ -1,7 +1,5 @@
 # ignore the following folders
-node_modules
-dist
-.parcel-cache
+
 
 # Logs
 logs
