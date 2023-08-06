@@ -3,17 +3,24 @@
     background-color: #321a16;
 }
 
+/* carousel */ 
+.carousel .item {
+    height: 680px;
+  }
+
+
 /* highlights */ 
 .highlight-container {
     padding-top: 50px;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     
 }
 
-
-eceae3
-
-
+/* menu */ 
+.menu {
+    padding-top: 50px;
+    padding-bottom: 125px;
+}
 
 
 /* footer */ 
